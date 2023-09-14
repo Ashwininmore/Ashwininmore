@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning <b>Java Full-stack Development</b>
 - 💬 Ask me about **Hackathons** ,**WINNER of MH2 Hackathon MSInS, Gov. Of Maharashtra.** 
-- 👯 I’m looking to collaborate with **organisations**
+- 👯 I’m looking to collaborate with **organisations to apply my skills**
 - 📫 Reach me at: **ashwinimore490@gmail.com**
 - ⚡ Fun fact: I love designing and developing software.
 - ❤️ Check Out my Personal WebPage: **https://sites.google.com/view/ashwini-more** 
