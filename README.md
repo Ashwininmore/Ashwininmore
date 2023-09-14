@@ -40,8 +40,7 @@
 
 ## 📈 My Current Stats
 
-| ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact) | !
-| ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwininmore&show_icons=true&theme=city_lights) | ![Ashwini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&theme=city-lights) |
+| ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact) | ![Ashwini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&theme=city-lights) |
 | :---: | :---: |
 
 
