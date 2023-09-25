@@ -45,7 +45,7 @@
 
 
 ## 📈 My Current Stats
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact" /></p>
 | ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact) | ![Ashwini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&theme=city-lights) |
 | :---: | :---: |
 
