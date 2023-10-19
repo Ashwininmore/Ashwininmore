@@ -13,9 +13,9 @@
 - ❤️ Check Out my Personal WebPage: **https://sites.google.com/view/ashwini-more** 
 - ❤ Check Out my Projects on YouTube:
 - EDUForum: **https://www.youtube.com/watch?v=mtYsvmBdDsw**
-- Traffic Management using Video Survillance: **https://www.youtube.com/watch?v=aYCfu7cGwJo**
-- **https://www.youtube.com/watch?v=IalN1Xcdapk**
-- **https://www.youtube.com/watch?v=JiCMWC6gXvU**
+- Traffic Management using Video Surveillance: **https://www.youtube.com/watch?v=aYCfu7cGwJo**
+- Mental Health Assessment: **https://www.youtube.com/watch?v=IalN1Xcdapk**
+- Positioning & Alignment of patients for Surgery: **https://www.youtube.com/watch?v=JiCMWC6gXvU**
 
 
 ## 🤝 Connect with me
