@@ -47,7 +47,7 @@
 
 ## 📈 My Current Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwininmore&hide=python,JupyterNotebook&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwininmore&hide=python,javascript,css,scss,html,JupyterNotebook&theme=tokyonight"/>
 </p>
 
 
