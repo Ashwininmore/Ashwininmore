@@ -46,8 +46,8 @@
 
 
 ## 📈 My Current Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact" alt="Ashwininmore" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwininmore&" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/langs?username=Ashwininmore&show_icons=true&locale=en&layout=compact" alt="Ashwininmore" /></p>
 
 
 
