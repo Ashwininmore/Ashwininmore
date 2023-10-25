@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Ashwini More</h1>
 
-<h3 align="center"> # Full-stack Developer👩‍💻</h3>
+<h3 align="center"> # Java Full-stack Developer👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwininmore&label=Profile%20views&color=83b60e&style=flat" alt="Ashwininmore" width="100" height="30"  /> </p>
 
